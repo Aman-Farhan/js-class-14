@@ -17,6 +17,6 @@
 // let otp = Math.floor(Math.random() *999 + 2000);
 // console.log(otp);
 
-let otp = Math.random();
-let a = Math.floor(otp) *999 + 1000;
-console.log(a);
+// let otp = Math.random();
+// let a = Math.floor(otp) *999 + 1000;
+// console.log(a);
