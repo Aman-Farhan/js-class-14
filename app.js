@@ -23,4 +23,4 @@
 
 let a = Math.random();
 let b = Math.ceil(a) * 5 + 5
-console.log(Math.sqrt(b,2));
+console.log(Math.sqrt(b,2))
