@@ -22,5 +22,5 @@
 // console.log(a);
 
 let a = Math.random();
-let b = Math.ceil(a) * 5 + 5
+let b = Math.ceil(a) * 5 + 5;
 console.log(Math.sqrt(b,2));
