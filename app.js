@@ -20,3 +20,7 @@
 // let otp = Math.random();
 // let a = Math.floor(otp) *999 + 1000;
 // console.log(a);
+
+let a = Math.random();
+let b = Math.ceil(a) * 5 + 5;
+console.log(Math.sqrt(b,2));
