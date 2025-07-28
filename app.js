@@ -1,5 +1,4 @@
 let coin = Math.random();
-// Math.round()     
-Math.ceil() * 5 + 2
-// Math.floor()
-console.log(coin)
+
+let a = Math.floor(coin) ;
+console.log(a);
