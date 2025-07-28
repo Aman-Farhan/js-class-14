@@ -59,6 +59,28 @@
 
 
 
-for (i = 100 ; i >= 0 ; i--){
-    console.log(i);
+// for (i = 100 ; i >= 0 ; i--){
+//     console.log(i);
+// }
+
+
+// let arr = ["aman", "bilal","rohan","saif","saad","shuja"];
+// let fat = ["farhan","farhan","farhan","kamran","rizwan","imran"];
+// for(i = 0 ; i < arr.length; i++){
+//     // console.log(arr);
+//    for(j = i ; j < fat.length; j++){
+//         console.log(arr[i]+ " "+ fat[i]);
+//     }
+// }
+
+
+
+ let arr = ["aman", "bilal","rohan","saif","saad","shuja"];
+let fat = ["farhan","farhan","farhan","kamran","rizwan","imran"];
+for (i = 0 ; i < arr.length ; i++){
+    let a = arr[i];
+    for (j = 0 ; j < fat.length ; j++){
+        let b = fat[i];
+        console.log(a+ " " + b);
+    }
 }
