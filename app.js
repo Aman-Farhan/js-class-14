@@ -43,19 +43,22 @@
 
 
 
-let a = +prompt("Enter A Number ");
-let b = +prompt("Enter A Number");
-let c = +prompt("Enter A Number");
+// let a = +prompt("Enter A Number ");
+// let b = +prompt("Enter A Number");
+// let c = +prompt("Enter A Number");
 
-if (a > b && a > c){
-    console.log("A is Greater");
+// if (a > b && a > c){
+//     console.log("A is Greater");
+// }
+// else if (b > a && b > c){
+//     console.log("B is Greater");
+// }
+// else{
+//     console.log("C is Greater");
+// }
+
+
+
+for (i = 100 ; i >= 0 ; i--){
+    console.log(i);
 }
-else if (b > a && b > c){
-    console.log("B is Greater");
-}
-else{
-    console.log("C is Greater");
-}
-
-
-
